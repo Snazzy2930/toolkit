@@ -1,0 +1,10 @@
+G:\Grace\completed\toolkit v1\toolkit v1\obj\Debug\toolkit v1.csprojAssemblyReference.cache
+G:\Grace\completed\toolkit v1\toolkit v1\obj\Debug\toolkit_v1.Form1.resources
+G:\Grace\completed\toolkit v1\toolkit v1\obj\Debug\toolkit_v1.Properties.Resources.resources
+G:\Grace\completed\toolkit v1\toolkit v1\obj\Debug\toolkit v1.csproj.GenerateResource.cache
+G:\Grace\completed\toolkit v1\toolkit v1\obj\Debug\toolkit v1.csproj.CoreCompileInputs.cache
+G:\Grace\completed\toolkit v1\toolkit v1\bin\Debug\toolkit v1.exe.config
+G:\Grace\completed\toolkit v1\toolkit v1\bin\Debug\toolkit v1.exe
+G:\Grace\completed\toolkit v1\toolkit v1\bin\Debug\toolkit v1.pdb
+G:\Grace\completed\toolkit v1\toolkit v1\obj\Debug\toolkit v1.exe
+G:\Grace\completed\toolkit v1\toolkit v1\obj\Debug\toolkit v1.pdb
